@@ -1,2 +1,2 @@
 # 3D-Front-end
-React practices
+Random portfolio made while tinkering React.
